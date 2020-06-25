@@ -4,7 +4,7 @@
 <p align="center">
 	<img src="https://ibin.co/5RG8P2UzRBia.png"/>
 </p>
-⚠️ **OpenCore is still in beta. Please keep this in mind.**<br><br><br>
+⚠️ <b>OpenCore is still in beta. Please keep this in mind</b><br><br><br>
 
 **macOS Catalina**: 10.15.5 (19F101) Dual Boot w/ **Windows 10**: 2004 64Bit
 
