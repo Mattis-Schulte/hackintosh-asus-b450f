@@ -22,4 +22,8 @@
 2. Monitor Control: https://github.com/MonitorControl/MonitorControl/releases - For adjusting the brightness of an external monitor
 
 ## Installation
-  1. Cooming soon
+  1. Format a USB stick, preferably USB 3, with the NTFS file system.
+  2. Then download [**gibMacOS**](https://github.com/corpnewt/gibMacOS) and open "gibMacOS.bat" as administrator. Install Python if necessary.
+  3. After that, when you see the different MacOS version, press R to get only the recovery version that are significantly smaller but still work.
+  4. In the list that is now displayed, select macOS Catalina 10.15.5, which must be marked as "Full Install" and hit enter.
+  5. Now open "MakeInstall.bat" as administrator, then enter the respective number for your USB stick, as well as the letter o not the number zero (for example "3o").
