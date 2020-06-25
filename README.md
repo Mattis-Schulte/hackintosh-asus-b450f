@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://ibin.co/5RG7Fqz6WiHY.png"/>
+	<img src="https://ibin.co/5RG8P2UzRBia.png"/>
 </p>
 ⚠️ <b>OpenCore is still in beta. Please keep this in mind.</b><br><br><br>
 
@@ -48,5 +48,5 @@
 ### Fixing Windows time
 1. If your time in Windows is no longer displayed as intended, install the "Windows Universal Time - On.reg" file in Windows.
 <p align="center">
-	<img src="https://ibin.co/5RG8P2UzRBia.png"/>
+	<img src="https://ibin.co/5RG7Fqz6WiHY.png"/>
 </p>
