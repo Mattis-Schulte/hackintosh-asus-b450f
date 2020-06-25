@@ -4,6 +4,7 @@
 
 **OpenCore version**: 0.5.9  
 
+
 **Please note that sleep mode does not yet work, so deactivate an automatic switch to sleep mode in the macOS settings**
 
 ## Specification
