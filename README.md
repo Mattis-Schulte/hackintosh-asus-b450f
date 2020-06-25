@@ -48,7 +48,7 @@
 ### Fixing Windows time
 1. If your time in Windows is no longer displayed as intended, install the "Windows Universal Time - On.reg" file in Windows.
 
-<br><br><br>
+<br>
 
 <p align="center">
 	<img src="https://ibin.co/5RG7Fqz6WiHY.png"/>
