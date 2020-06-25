@@ -1,6 +1,9 @@
 <p align="center">
 	<img src="https://ibin.co/5RG7Fqz6WiHY.png"/>
 </p>
+<p align="center">
+	<img src="https://ibin.co/5RG8P2UzRBia.png"/>
+</p>
 
 ⚠️ **OpenCore is still in beta. Please keep this in mind.** <br><br>
 
