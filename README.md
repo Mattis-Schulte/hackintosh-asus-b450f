@@ -15,6 +15,7 @@
 <br>
 <b>Please note that sleep mode does not yet work, so deactivate an automatic switch to sleep mode in the macOS settings</b>
 <br>
+<br>
 
 ### Software needed
 1. gibMacOS: https://github.com/corpnewt/gibMacOS
