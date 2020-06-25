@@ -1,5 +1,7 @@
 ![Screenshot](/cover.png?raw=true)
 
+⚠️ **OpenCore is still in beta. Please keep this in mind.**
+
 **macOS Catalina**: 10.15.5 (19F101) Dual Boot w/ **Windows 10**: 2004 64Bit
 
 **OpenCore version**: 0.5.9  
