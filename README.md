@@ -3,8 +3,6 @@
 **macOS Catalina**: 10.15.5 (19F101) Dual Boot w/ **Windows 10**: 2004 64Bit
 
 **OpenCore version**: 0.5.9  
-<br>
-<b>Please note that sleep mode does not yet work, so deactivate an automatic switch to sleep mode in the macOS settings</b>
 
 ## Specification
 | **Component** | **Model** |
@@ -13,6 +11,10 @@
 | Motherboard | ASUS ROG Strix B450-F Gaming |
 | GPU | AMD Radeon RX 500 Series |
 | RAM | 32GB @ 2933MHz |
+
+<br>
+<br>
+<b>Please note that sleep mode does not yet work, so deactivate an automatic switch to sleep mode in the macOS settings</b>
 
 ### Software needed
 1. gibMacOS: https://github.com/corpnewt/gibMacOS
