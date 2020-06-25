@@ -1,10 +1,12 @@
-![Screenshot](/cover.png?raw=true)
+<p align="center">
+	<img src="https://ibin.co/5RG7Fqz6WiHY.png"/>
+</p>
 
 ⚠️ **OpenCore is still in beta. Please keep this in mind.** <br><br>
 
 **macOS Catalina**: 10.15.5 (19F101) Dual Boot w/ **Windows 10**: 2004 64Bit
 
-**OpenCore version**: 0.5.9  
+**OpenCore version**: 0.5.9 <br><br>
 
 ## Specification
 | **Component** | **Model** |
