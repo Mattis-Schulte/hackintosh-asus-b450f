@@ -13,8 +13,8 @@
 | RAM | 32GB @ 2933MHz |
 
 <br>
-<br>
 <b>Please note that sleep mode does not yet work, so deactivate an automatic switch to sleep mode in the macOS settings</b>
+<br>
 
 ### Software needed
 1. gibMacOS: https://github.com/corpnewt/gibMacOS
