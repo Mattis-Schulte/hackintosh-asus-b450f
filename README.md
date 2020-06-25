@@ -49,4 +49,4 @@
 1. If your time in Windows is no longer displayed as intended, install the "Windows Universal Time - On.reg" file in Windows.
 <p align="center">
 	<img src="https://ibin.co/5RG7Fqz6WiHY.png"/>
-</p>
+</p><br><br><br>
