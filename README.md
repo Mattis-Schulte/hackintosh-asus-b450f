@@ -45,9 +45,9 @@
 </p>
 
 ### Please also note that the sleep mode may not work if:
-1. USB 2.0 device plugged into the motherboard's USB 3.1 I/O ports<br>
-2. USB 3.0 device plugged into the motherboard's USB 2.0 I/O ports<br>
-3. USB 2.0 device connected to a USB 3.0 hub and plugged into the motherboard's USB 3.1 I/O port, Sleep works if only the hub is plugged into a USB 2.0 I/O port.<br>
+1. USB 2.0 device plugged into the motherboard's USB 3.x I/O ports<br>
+2. USB 3.x device plugged into the motherboard's USB 2.0 I/O ports<br>
+3. USB 2.0 device connected to a USB 3.x hub and plugged into the motherboard's USB 3.x I/O port, sleep only works when the hub is plugged into a USB 2.0 I/O port.<br>
 - [**Source**](https://amd-osx.com/forum/viewtopic.php?f=61&t=9294)
 
 ### Fixing Windows time
