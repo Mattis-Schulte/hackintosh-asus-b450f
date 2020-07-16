@@ -3,7 +3,7 @@
 </p>
 ⚠️ <b>OpenCore is still in beta. Please keep this in mind.</b><br><br><br>
 
-**macOS Catalina**: 10.15.5 (19F101) Dual Boot w/ **Windows 10**: 2004 64Bit
+**macOS Catalina**: 10.15.6 (19G73) Dual Boot w/ **Windows 10**: 2004 64Bit
 
 **OpenCore version**: 0.5.9 <br>
 
@@ -13,7 +13,7 @@
 | CPU | AMD Ryzen 7 2700X @ 3.7GHz |
 | Motherboard | ASUS ROG Strix B450-F Gaming |
 | GPU | AMD Radeon RX 500 Series |
-| RAM | 32GB @ 2933MHz |
+| RAM | 32GB @ 3000MHz |
 
 ### Software needed
 1. gibMacOS: https://github.com/corpnewt/gibMacOS
