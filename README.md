@@ -1,6 +1,3 @@
-<p align="center">
-	<img src="https://ibin.co/5RG8P2UzRBia.png"/>
-</p>
 ⚠️ <b>OpenCore is still in beta. Please keep this in mind.</b><br><br><br>
 
 **macOS Catalina**: 10.15.6 (19G73) Dual Boot w/ **Windows 10**: 2004 64Bit
@@ -39,10 +36,6 @@
   10. Now open the config.plist with "[**ProperTree.bat**](https://github.com/corpnewt/ProperTree)", then enter the MAC address of your Ethernet port under Root > PlatformInfo > Generic > ROM .
   11. Now boot from the USB stick after deactivating secure boot, fast boot, and csm in the BIOS and unplugging all hard drives, apart from a single blank one on which you want to install macOS.
   12. After you have set up macOS, open [**Clover Configurator**](https://www.macupdate.com/app/mac/61090/clover-configurator) and mount the EFI partition with it. Then copy the EFI folder from the USB stick to the hard drive.
-
-<p align="center">
-	<img src="https://ibin.co/5RG7Fqz6WiHY.png"/>
-</p>
 
 ### Please also note that the sleep mode may not work if:
 1. USB 2.0 device plugged into the motherboard's USB 3.x I/O ports<br>
