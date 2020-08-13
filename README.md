@@ -1,6 +1,6 @@
 ⚠️ <b>OpenCore is still in beta. Please keep this in mind.</b>
 
-**macOS Catalina**: 10.15.6 (19G73) Dual Boot w/ **Windows 10**: 2004 64Bit
+**macOS Catalina**: 10.15.6 (19G2021) Dual Boot w/ **Windows 10**: 2004 64Bit
 
 **OpenCore version**: 0.6.0 <br>
 
