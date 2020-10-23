@@ -38,6 +38,10 @@
   11. Now boot from the USB stick after deactivating secure boot, fast boot, and csm in the BIOS and unplugging all hard drives, apart from a single blank one on which you want to install macOS.
   12. After you have set up macOS, open [**Clover Configurator**](https://www.macupdate.com/app/mac/61090/clover-configurator) and mount the EFI partition with it. Then copy the EFI folder from the USB stick to the hard drive.
 
+> Set OS Type in your BIOS to `Other OS` if you're having issues booting the macOS installer.
+
+> If you are using a Navi-based graphics card instead of Polaris or Vega, you will also need to download [**ProperTree**](https://github.com/corpnewt/ProperTree) and open EFI/OC/config.plist with it. Then add `agdpmod=pikera` to your boot-arguments (NVRAM > Add > 7C436110-AB2A-4BBB-A880-FE41995C9F82 > boot-args).
+
 ### Please also note that the sleep mode may not work if:
 1. USB 2.0 device plugged into the motherboard's USB 3.x I/O ports<br>
 2. USB 3.x device plugged into the motherboard's USB 2.0 I/O ports<br>
