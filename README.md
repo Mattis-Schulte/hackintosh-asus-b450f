@@ -1,16 +1,18 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 ⚠️ <b>OpenCore is still in beta. Please keep this in mind.</b>
 
-**macOS Catalina**: 10.15.7 (19H2) Triple Boot w/ **Windows 10**: 2004 and **Ubuntu**: 20.04.1
+**macOS Catalina**: 10.15.7 (19H2) Triple Boot w/ **Windows 10**: 2004 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
 
-**OpenCore version**: 0.6.2 <br>
+**OpenCore version**: 0.6.3 <br>
 
-## Specification
+> This version currently does <b>NOT</b> work with macOS Big Sur, do not update
+
+## My System
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 7 2700X @ 3.7GHz |
 | Motherboard | ASUS ROG Strix B450-F Gaming |
-| GPU | AMD Radeon RX 500 Series |
+| GPU | AMD Radeon RX 580 |
 | RAM | 32GB @ 3000MHz |
 
 ### Software needed
