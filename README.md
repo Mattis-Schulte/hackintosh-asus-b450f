@@ -5,7 +5,7 @@
 
 **OpenCore version**: 0.6.3 <br>
 
-> This version currently does <b>NOT</b> work with macOS Big Sur, do not update
+> This version currently does <b>NOT</b> work with macOS Big Sur, do not update to macOS Big Sur.
 
 ## My System
 | **Component** | **Model** |
