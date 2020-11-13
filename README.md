@@ -27,7 +27,7 @@
   1. Format a USB stick, preferably USB 3, with the NTFS file system
   2. Then download [**gibMacOS**](https://github.com/corpnewt/gibMacOS) and open "gibMacOS.bat" as administrator. Install Python if necessary.
   3. After that, when you see the different macOS version, press R to get only the recovery versions that are significantly smaller but still work.
-  4. In the list that is now displayed, select operating system version you want, which has to be marked as "Full Install" and hit enter.
+  4. In the list that is now displayed, select the operating system version you want, which has to be marked as "Full Install" and hit enter.
   5. Now open "MakeInstall.bat" as administrator, then enter the respective number for your USB stick, as well as the letter o not the number zero (for example "3o").
   6. Wait until it is finished and then enter the path to the macOS recovery file that you just downloaded.
   7. When this is complete, you will now see a USB device called "BOOT" replaced the "EFI" folder contained in it with the one that is contained in this repo.
