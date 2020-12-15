@@ -1,9 +1,9 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 ⚠️ <b>OpenCore is still in beta. Please keep this in mind.</b>
 
-**macOS Big Sur**: 11.0.1 (20B29)  Triple Boot w/ **Windows 10**: 20H2 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
+**macOS Big Sur**: 11.1 (20C69)  Triple Boot w/ **Windows 10**: 20H2 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
 
-**OpenCore version**: 0.6.3 <br>
+**OpenCore version**: 0.6.4 <br>
 
 ## My System
 | **Component** | **Model** |
