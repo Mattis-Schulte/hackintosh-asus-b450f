@@ -1,6 +1,6 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 
-**macOS Big Sur**: 11.2 (20D64)  Triple Boot w/ **Windows 10**: 20H2 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
+**macOS Big Sur**: 11.2.3 (20D91)  Triple Boot w/ **Windows 10**: 20H2 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
 
 **OpenCore version**: 0.6.5 <br>
 
@@ -8,7 +8,7 @@
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 7 2700X @ 3.7GHz |
-| Motherboard | ASUS ROG Strix B450-F Gaming |
+| Motherboard | ASUS ROG Strix B450-F Gaming - BIOS Version 4007 |
 | GPU | AMD Radeon RX 580 |
 | RAM | 32GB @ 3000MHz |
 
