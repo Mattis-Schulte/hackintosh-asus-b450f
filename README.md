@@ -2,7 +2,7 @@
 
 **macOS Big Sur**: 11.2.3 (20D91)  Triple Boot w/ **Windows 10**: 20H2 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
 
-**OpenCore version**: 0.6.5 <br>
+**OpenCore version**: 0.6.8 <br>
 
 ## My System
 | **Component** | **Model** |
