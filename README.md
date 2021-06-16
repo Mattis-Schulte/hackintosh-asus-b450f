@@ -1,8 +1,8 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 
-**macOS Big Sur**: 11.3 (20E232)  Triple Boot w/ **Windows 10**: 20H2 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
+**macOS Big Sur**: 11.4 (20F71)  Triple Boot w/ **Windows 10**: 21H1 and **Ubuntu**: 20.04.1 LTS (Focal Fossa)
 
-**OpenCore version**: 0.6.8 <br>
+**OpenCore version**: 0.7.0 <br>
 
 ## My System
 | **Component** | **Model** |
