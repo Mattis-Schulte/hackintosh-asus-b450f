@@ -9,10 +9,10 @@
 			<dict>
 				<key>Comment</key>
 				<string>SSDT-EC.aml</string>
-				<key>Path</key>
-				<string>SSDT-EC.aml</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Path</key>
+				<string>SSDT-EC.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -207,6 +207,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -961,7 +963,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<false/>
+			<true/>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
@@ -1243,34 +1245,34 @@
 		<key>Drivers</key>
 		<array>
 			<dict>
-				<key>Comment</key>
-				<string>HfsPlus.efi</string>
+				<key>Enabled</key>
+				<true/>
 				<key>Path</key>
 				<string>HfsPlus.efi</string>
-				<key>Enabled</key>
-				<true/>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>HfsPlus.efi</string>
 			</dict>
 			<dict>
-				<key>Comment</key>
-				<string>OpenCanopy.efi</string>
-				<key>Path</key>
-				<string>OpenCanopy.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Path</key>
+				<string>OpenCanopy.efi</string>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>OpenCanopy.efi</string>
 			</dict>
 			<dict>
-				<key>Comment</key>
-				<string>OpenRuntime.efi</string>
-				<key>Path</key>
-				<string>OpenRuntime.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Path</key>
+				<string>OpenRuntime.efi</string>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>OpenRuntime.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
@@ -1308,6 +1310,8 @@
 			<false/>
 			<key>ProvideConsoleGop</key>
 			<true/>
+			<key>ReconnectGraphicsOnConnect</key>
+			<false/>
 			<key>ReconnectOnResChange</key>
 			<false/>
 			<key>ReplaceTabWithSpace</key>
@@ -1318,6 +1322,8 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
+			<key>UIScale</key>
+			<integer>0</integer>
 			<key>UgaPassThrough</key>
 			<false/>
 		</dict>
@@ -1368,6 +1374,8 @@
 			<false/>
 			<key>EnableVectorAcceleration</key>
 			<true/>
+			<key>EnableVmx</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>ForceOcWriteFlash</key>
@@ -1382,6 +1390,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
