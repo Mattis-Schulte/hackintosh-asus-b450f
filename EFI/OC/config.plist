@@ -344,13 +344,13 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>AppleI2xx.kext</string>
+				<string>AppleIGB.kext</string>
 				<key>Comment</key>
-				<string>AppleI2xx.kext</string>
+				<string>AppleIGB.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AppleI2xx</string>
+				<string>Contents/MacOS/AppleIGB</string>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>MaxKernel</key>
@@ -965,7 +965,7 @@
 			<key>HideAuxiliary</key>
 			<true/>
 			<key>LauncherOption</key>
-			<string>Disabled</string>
+			<string>Full</string>
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerAttributes</key>
@@ -1282,6 +1282,26 @@
 				<string></string>
 				<key>Comment</key>
 				<string>OpenRuntime.efi</string>
+			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>ext4_x64.efi</string>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string>ext4_x64.efi</string>
+			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenLinuxBoot.efi</string>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string>OpenLinuxBoot.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
