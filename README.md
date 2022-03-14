@@ -1,14 +1,14 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 
-**macOS Monterey**: 12.2.1 (21D62) Dual Boot w/ **Windows 11**: 21H2
+**macOS Monterey**: 12.3 (21E230) Dual Boot w/ **Windows 11**: 21H2
 
-**OpenCore version**: 0.7.8 <br>
+**OpenCore version**: 0.7.9 <br>
 
 ## My System
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 7 2700X @ 3.7GHz |
-| Motherboard | ASUS ROG Strix B450-F Gaming - BIOS Version 4502 |
+| Motherboard | ASUS ROG Strix B450-F Gaming - BIOS Version 4702 |
 | GPU | AMD Radeon RX 580 |
 | RAM | 32GB @ 2933 MHz |
 
