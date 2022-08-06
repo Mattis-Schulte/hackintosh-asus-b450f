@@ -1,8 +1,8 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 
-**macOS Monterey**: 12.4 (21F79) Dual Boot w/ **Windows 11**: 21H2
+**macOS Monterey**: 12.5 (21G72) Dual Boot w/ **Windows 11**: 21H2
 
-**OpenCore version**: 0.8.2 <br>
+**OpenCore version**: 0.8.3 <br>
 
 ## My System
 | **Component** | **Model** |
